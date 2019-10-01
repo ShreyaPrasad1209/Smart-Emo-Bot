@@ -1,0 +1,18 @@
+{
+    "name": "SmartEmoBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "916a7e80-e421-11e9-9d70-3bee14b3e374",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "ZaQSnx3Ko/IPJKmUQwt8sA==!VLup/i7JeouhyqqRYoC5R1wRV2aFesLuMj6BDyejXj/5FaGgESJMMCpvtWLp0GNk",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\dell\\Desktop\\SmartEmoBot\\SmartEmoBot.bot"
+}
